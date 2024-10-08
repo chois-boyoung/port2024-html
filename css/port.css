@@ -234,6 +234,9 @@ header{
     .text_desc > .flex{
         gap: 10px;
     }
+    .page01_inner{
+        justify-content: center;
+    }
 }
 
 /* page02 */
@@ -292,7 +295,7 @@ header{
         margin-bottom: 10vw;
         font-size: 30px;
         height: auto;
-        top: 80px;
+        top: 78px;
         background-color: var(--mainBg-color);
     }
     .page02_right{
